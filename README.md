@@ -3,7 +3,7 @@ Data analysis is a process of inspecting, cleansing, transforming, and modeling 
 
 
 
-these give below are some analysis
+these given below are some analysis of data's from datasets
 
 1.Amazon forest.
 
