@@ -3,12 +3,12 @@ Data analysis is a process of inspecting, cleansing, transforming, and modeling 
 
 
 
-#these give below are some analysis
+these give below are some analysis
 
-\n1.Amazon forest.
+1.Amazon forest.
 
-\n2.bookseller.
+2.bookseller.
 
-\n3.covid-19/India
+3.covid-19/India
 
-\n4.Stroke_Preditio
+4.Stroke_Preditio
