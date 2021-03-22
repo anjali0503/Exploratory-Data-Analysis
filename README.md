@@ -12,3 +12,5 @@ these given below are some analysis of data's from datasets
 3.covid-19/India
 
 4.Stroke_Preditio
+
+5.Iris data visualization 
